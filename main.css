@@ -1,0 +1,14 @@
+
+
+.icon-row{
+    display: flex;
+    margin-bottom: 2px;
+}
+
+.icon-box{
+    width: 2px;
+    height: 2px;
+    background-color: transparent;
+    margin-right: 2px;
+    border: 2px solid black;
+}
